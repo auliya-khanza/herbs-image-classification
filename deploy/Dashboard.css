@@ -1,0 +1,95 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 700px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 503px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/798copy.jpg");
+  background-position: 50% 59.92%;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 72px;
+  font-size: 3.75rem;
+  margin: 55px auto 0;
+  color: #ffffff;
+  text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.35);
+}
+
+.u-section-1 .u-text-2 {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 86px;
+  font-size: 2rem;
+  color: #5A2C29;
+}
+
+.u-section-1 .u-group-2 {
+  width: 630px;
+  background-image: none;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  min-height: 429px;
+  height: auto;
+  margin: 76px auto -196px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin-top: 0;
+  background-image: none;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+    font-weight: 400;
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 320px;
+  }
+}
